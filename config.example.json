@@ -1,0 +1,16 @@
+{
+  "instagram_api": {
+    "access_token": "YOUR_ACCESS_TOKEN_HERE",
+    "client_id": "YOUR_CLIENT_ID_HERE",
+    "client_secret": "YOUR_CLIENT_SECRET_HERE"
+  },
+  "scan_settings": {
+    "default_niche": "fitness",
+    "default_count": 30,
+    "schedule_hours": 12
+  },
+  "notification": {
+    "email": "your.email@example.com",
+    "send_alerts": true
+  }
+}
